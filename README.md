@@ -1,2 +1,2 @@
 # DofusFARM
- Farming pour les noob
+Farmer les chafer d'élite pour les temporis
